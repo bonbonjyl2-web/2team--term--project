@@ -26,7 +26,7 @@
 서비스의 핵심 기능을 시각적으로 표현한 모바일  UI 구성 & 디자인 이미지 
 * 메인 페이지 1장 : ![alt text](병원예약-1.png)
 
-* 상세 페이지 3장 : ![alt text](병원예약-2.png) ![alt text](병원예약-3.png)![alt text](병원예약-4.png)
+* 상세 페이지 3장 : ![alt text](병원예약-2.png) ![alt text](병원예약-3.png) ![alt text](병원예약-4.png)
 
 * 마이 페이지 1장 : ![alt text](병원예약-5.png)
 
