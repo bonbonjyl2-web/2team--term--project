@@ -204,7 +204,7 @@ Must show the entire smartphone device screen mockup without clipping the bottom
 
 # Figma 프로젝트 (1개)
 
-https://discord.com/channels/1530438077128900750/1530438077766701231/1530470938481528842
+https://www.figma.com/make/oCRnHBCwoX47JI96wqVKZr/%EB%B3%91%EC%9B%90-%EC%B6%94%EC%B2%9C-%EC%98%88%EC%95%BD-%EC%95%B1?p=f
 
 생성된 이미지를 배치하여 화면 흐름을 구성한 프로젝트 링크
 클릭 가능한 영역(Hotspot) 또는 화면 전환 흐름 표시
